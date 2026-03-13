@@ -4,20 +4,24 @@ title: "Assignment 1"
 
 # Assignment 1
 
-```{r}
-1 + 1
-```
+This assignment demonstrates a simple R calculation and a basic plot.
 
-My first assignment has two parts.
+## (a) Simple Calculation
 
-## (a)
+In this part we perform a simple arithmetic operation in R.
 
 ```{r}
 1 + 1
 ```
 
-## (b)
+The result above shows how R evaluates basic expressions.
+
+## (b) Basic Plot
+
+Here we create a simple scatter plot using the built-in `cars` dataset.
 
 ```{r}
 plot(cars)
 ```
+
+The plot displays the relationship between car speed and stopping distance.
