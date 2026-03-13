@@ -12,4 +12,12 @@ My first assignment has two parts.
 
 ## (a)
 
+```{r}
+1 + 1
+```
+
 ## (b)
+
+```{r}
+plot(cars)
+```
