@@ -21,7 +21,7 @@ The result above shows how R evaluates basic expressions.
 Here we create a simple scatter plot using the built-in `cars` dataset.
 
 ```{r}
-plot(cars)
+splot(cars)
 ```
 
 The plot displays the relationship between car speed and stopping distance.
