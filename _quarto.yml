@@ -22,11 +22,9 @@ website:
             
     tools:
       - icon: github
-        href: https://twitter.com
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/denizasmaz85
       - icon: linkedin
-        href: https://linkedin.com
+        href: https://linkedin.com/in/deniz-asmaz-6178b6255
 
   sidebar:
     - title: "Assignments"
@@ -43,12 +41,12 @@ website:
     border: true
 format:
   html:
-    toc: true
-    toc-location: left
-    theme: 
-      light: pulse 
+    theme:
+      light: pulse
       dark: superhero
     css: styles.css
+    toc: true
+    toc-location: left
 
 
 editor: visual

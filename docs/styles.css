@@ -1,1 +1,21 @@
 /* css styles */
+/* Navbar rengi */
+.navbar {
+  background-color: #b30000 !important;
+}
+
+/* Link renkleri */
+a {
+  color: #b30000;
+}
+
+/* Başlık renkleri */
+h1, h2, h3 {
+  color: #b30000;
+}
+
+/* Buton renkleri */
+.btn-primary {
+  background-color: #b30000;
+  border-color: #b30000;
+}

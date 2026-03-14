@@ -1,9 +1,14 @@
 ---
-title: "My Assignments"
+title: "Assignments"
 ---
 
-On this page, I showcase the assignment I conducted for the \[term and year, e.g. Spring 2026\] EMU430 Data Analytics course.
+# My Assignments
 
-Please use the left menu to navigate through my assignments.
+Below are the assignments completed for the EMU430 course.
 
-The most recent update to this page was made on x/x/2026.
+## Assignment List
+
+- [Assignment 1](assignments/assignment-1.qmd)
+- [Assignment 2](assignments/assignment-2.qmd)
+
+These assignments demonstrate basic R analysis and visualization.de

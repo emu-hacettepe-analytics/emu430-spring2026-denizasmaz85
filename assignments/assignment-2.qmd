@@ -4,6 +4,24 @@ title: "Assignment 2"
 
 # Assignment 2
 
+This assignment explores a small dataset and produces a simple visualization.
+
+## (a) Summary of a Dataset
+
+We calculate summary statistics for the built-in `cars` dataset.
+
 ```{r}
-1 + 1
+summary(cars)
 ```
+
+The summary function gives basic statistics such as minimum, maximum, mean and quartiles.
+
+## (b) Histogram
+
+Now we visualize the distribution of car speeds.
+
+```{r}
+hist(cars$speed)
+```
+
+The histogram shows how the car speeds are distributed in the dataset.

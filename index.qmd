@@ -1,14 +1,24 @@
 ---
-title: "Welcome to My Analytics Lab"
-sidebar: false 
+title: "Home"
 ---
 
-Hello! My name is Deniz ASMAZ.
+# 👋 Welcome
 
-I am an Industrial Engineering student at Hacettepe University.
+## Deniz Asmaz
 
-This is my personal webpage.
+**Industrial Engineering Student**\
+Hacettepe University
 
-Please stay tuned to follow my works on data analytics, blog posts, and more.
+This website contains my coursework and analytics assignments for the **EMU430 course**.
 
-This is our template.
+------------------------------------------------------------------------
+
+### About this site
+
+On this website you can find:
+
+-   📊 Data analysis assignments
+-   📈 R visualizations
+-   🧪 Course projects
+
+Use the navigation bar above to explore my coursework.
