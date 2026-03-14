@@ -8,7 +8,7 @@ Below are the assignments completed for the EMU430 course.
 
 ## Assignment List
 
-- [Assignment 1](assignments/assignment-1.qmd)
-- [Assignment 2](assignments/assignment-2.qmd)
+-   [Assignment 1](assignments/assignment-1.qmd)
+-   [Assignment 2](assignments/assignment-2.qmd)
 
 These assignments demonstrate basic R analysis and visualization.de
