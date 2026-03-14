@@ -5,105 +5,63 @@ sidebar: false
 
 # Education
 
--   Hacettepe University — B.Sc. in Industrial Engineering (English)
-2023 – Present
+-   Hacettepe University — B.Sc. in Industrial Engineering (English) 2023 – Present
 
-Hacettepe University — English Preparatory Program
-2022 – 2023
+Hacettepe University — English Preparatory Program 2022 – 2023
 
-Trabzon Yomra Science High School
-2018 – 2022
+Trabzon Yomra Science High School 2018 – 2022
 
 # Work Experience
 
-
 ## Employements
 
-Private Tutor (Freelance)
-June 2022 – June 2025 (3 years)
-	•	Provided one-on-one tutoring in mathematics, geometry, physics and Turkish.
-	•	Helped students improve academic performance through personalized learning strategies.
-	•	Developed structured study plans and tracked student progress.
+Private Tutor (Freelance) June 2022 – June 2025 (3 years) • Provided one-on-one tutoring in mathematics, geometry, physics and Turkish. • Helped students improve academic performance through personalized learning strategies. • Developed structured study plans and tracked student progress.
 
 ## Internships
 
-AKDAŞ Döküm Sanayi ve Tic. A.Ş. — Production Intern
-August 2025 – September 2025 (1 month)
-	•	Observed casting production processes and quality control stages.
-	•	Collected and organized operational production data for reporting.
-	•	Analyzed workflow steps and supported documentation of production processes.
+AKDAŞ Döküm Sanayi ve Tic. A.Ş. — Production Intern August 2025 – September 2025 (1 month) • Observed casting production processes and quality control stages. • Collected and organized operational production data for reporting. • Analyzed workflow steps and supported documentation of production processes.
 
-Yılmazlar Lastik & İnşaat — Operations Intern
-June 2024 – August 2024 (3 months)
-	•	Assisted daily operational processes and coordinated communication between suppliers, customers and field teams.
-	•	Organized operational data and supported workflow tracking in the office.
+Yılmazlar Lastik & İnşaat — Operations Intern June 2024 – August 2024 (3 months) • Assisted daily operational processes and coordinated communication between suppliers, customers and field teams. • Organized operational data and supported workflow tracking in the office.
 
 # Projects
-Teknofest Air Defense Systems Competition — Sponsorship Team Captain
-June 2024 – February 2025 (8 months)
-	•	Managed sponsorship processes for the project team.
-	•	Established communication with potential sponsors and developed partnerships.
-	•	Coordinated sponsorship meetings, negotiations and financial contributions.
 
-Unifestal — Corporate Coordinator & Social Media Specialist
-October 2024 – July 2025 (9 months)
+Teknofest Air Defense Systems Competition — Sponsorship Team Captain June 2024 – February 2025 (8 months) • Managed sponsorship processes for the project team. • Established communication with potential sponsors and developed partnerships. • Coordinated sponsorship meetings, negotiations and financial contributions.
 
-Corporate Coordinator (Jan 2025 – Jul 2025)
-	•	Coordinated partnerships, sponsorship negotiations and event operations.
+Unifestal — Corporate Coordinator & Social Media Specialist October 2024 – July 2025 (9 months)
 
-Social Media Specialist (Oct 2024 – Jan 2025)
-	•	Planned social media strategies and created digital marketing content.
+Corporate Coordinator (Jan 2025 – Jul 2025) • Coordinated partnerships, sponsorship negotiations and event operations.
 
-Hacettepe Economics Community — Promotion & Media Director
-2024 – Present
-	•	Led promotional campaigns and content production.
-	•	Coordinated communication with stakeholders and managed team workflow.
+Social Media Specialist (Oct 2024 – Jan 2025) • Planned social media strategies and created digital marketing content.
 
+Hacettepe Economics Community — Promotion & Media Director 2024 – Present • Led promotional campaigns and content production. • Coordinated communication with stakeholders and managed team workflow.
 
 # Competencies
 
-Data & Analytical Skills
-	•	Excel (Intermediate)
-	•	Data Analysis
-	•	Dashboard Creation
-	•	Basic Statistical Analysis
-	•	Data Reporting
+Data & Analytical Skills • Excel (Intermediate) • Data Analysis • Dashboard Creation • Basic Statistical Analysis • Data Reporting
 
-Operations & Process Management
-	•	Workflow Analysis
-	•	Process Monitoring
-	•	Basic Kaizen Approach
-	•	Operational Coordination
+Operations & Process Management • Workflow Analysis • Process Monitoring • Basic Kaizen Approach • Operational Coordination
 
-Project & Organizational Skills
-	•	Project Management
-	•	Team Coordination
-	•	Time Management
-	•	Event Organization
+Project & Organizational Skills • Project Management • Team Coordination • Time Management • Event Organization
 
-Design & Digital Skills
-	•	Adobe Photoshop (Advanced)
-	•	Adobe After Effects (Advanced)
-	•	Canva (Advanced)
-	•	Visual Content Production
+Design & Digital Skills • Adobe Photoshop (Advanced) • Adobe After Effects (Advanced) • Canva (Advanced) • Visual Content Production
 
-Languages
-	•	English (C1 – Advanced)
-	•	Italian (A2 – Basic)
+Languages • English (C1 – Advanced) • Italian (A2 – Basic)
 
 # Hobbies
-	•	Graphic Design
-	•	Video Editing
-	•	Technology & Data Analysis
-	•	Event Organization
-	•	Learning New Languages
 
+```         
+•   Graphic Design
+•   Video Editing
+•   Technology & Data Analysis
+•   Event Organization
+•   Learning New Languages
+```
 
 ## My CV
 
 You can download my CV below:
 
-[Download my CV](Deniz asmaz cv.pdf)
+[Download my CV](Deniz%20asmaz%20cv.pdf)
 
 ### Preview
 
